@@ -23,7 +23,12 @@
       <module>cloud-consumer-fegin-hystrix-order80</module>
       <module>cloud-consumer-hystrix-dashboard9001</module>
       <module>cloud-gatway-gatway9527</module>
-      <module>untitled</module>
+      <module>cloud-config-center-3344</module>
+      <module>cloud-config-client3355</module>
+      <module>cloud-config-client-3366</module>
+      <module>cloud-stream-rabbitmq-provider8801</module>
+      <module>cloud-stream-rabbitmq-consumer-8802</module>
+      <module>cloud-stream-rabbitmq-consumer-8803</module>
   </modules>
   <packaging>pom</packaging>
 
